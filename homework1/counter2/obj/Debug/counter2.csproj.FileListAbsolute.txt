@@ -1,0 +1,10 @@
+D:\c#\counter2\bin\Debug\counter2.exe.config
+D:\c#\counter2\bin\Debug\counter2.exe
+D:\c#\counter2\bin\Debug\counter2.pdb
+D:\c#\counter2\obj\Debug\counter2.csprojAssemblyReference.cache
+D:\c#\counter2\obj\Debug\counter2.Form1.resources
+D:\c#\counter2\obj\Debug\counter2.Properties.Resources.resources
+D:\c#\counter2\obj\Debug\counter2.csproj.GenerateResource.cache
+D:\c#\counter2\obj\Debug\counter2.csproj.CoreCompileInputs.cache
+D:\c#\counter2\obj\Debug\counter2.exe
+D:\c#\counter2\obj\Debug\counter2.pdb
