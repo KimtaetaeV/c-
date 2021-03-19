@@ -1,0 +1,7 @@
+D:\c#\homework3\bin\Debug\homework3.exe.config
+D:\c#\homework3\bin\Debug\homework3.exe
+D:\c#\homework3\bin\Debug\homework3.pdb
+D:\c#\homework3\obj\Debug\task1.csprojAssemblyReference.cache
+D:\c#\homework3\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\c#\homework3\obj\Debug\homework3.exe
+D:\c#\homework3\obj\Debug\homework3.pdb
