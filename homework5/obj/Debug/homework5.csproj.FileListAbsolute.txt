@@ -1,0 +1,7 @@
+D:\c#\homework5\homework5\bin\Debug\homework5.exe.config
+D:\c#\homework5\homework5\bin\Debug\homework5.exe
+D:\c#\homework5\homework5\bin\Debug\homework5.pdb
+D:\c#\homework5\homework5\obj\Debug\homework5.csprojAssemblyReference.cache
+D:\c#\homework5\homework5\obj\Debug\homework5.csproj.CoreCompileInputs.cache
+D:\c#\homework5\homework5\obj\Debug\homework5.exe
+D:\c#\homework5\homework5\obj\Debug\homework5.pdb
